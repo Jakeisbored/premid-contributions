@@ -1,5 +1,5 @@
 # premid-contributions
-My contributions to the premid presence repo currently available on the presence store via my [page](https://premid.app/users/480407581085532180)
+My contributions along with the source and resources used to the premid presence repo currently available on the presence store via my [page](https://premid.app/users/480407581085532180)
 # This for now contains 
 ## Presences
 * [PyPi](https://premid.app/store/presences/PyPi)
